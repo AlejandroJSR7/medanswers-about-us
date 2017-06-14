@@ -112,6 +112,7 @@ body {
 .button--primary {
   border-color: #00DD78;
   color: #00DD78;
+  font-weight: 400;
 }
 .button--primary:hover {
   color: #00DD78;
